@@ -100,7 +100,7 @@ const Header = () => {
                 </div>
             </div>
             <div className={styles.right}>
-                <a href="https://github.com/armmosikyan66" target="_blank">
+                <a href="https://github.com/armmosikyan66" rel="noreferrer" target="_blank">
                 <button>
                     <span>Contact</span>
                     <AiFillGithub size={18}/>
