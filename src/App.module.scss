@@ -1,0 +1,16 @@
+.main {
+    flex: 1;
+    border-left: 1px solid #f1f4f9;
+    border-top: 1px solid #f1f4f9;
+    height: 100%;
+}
+
+.flex {
+    display: flex;
+    height: 100%;
+    width: 100%;
+
+    .main {
+        width: 50%;
+    }
+}

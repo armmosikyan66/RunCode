@@ -1,0 +1,27 @@
+.codebar {
+    height: calc(100vh - 80px);
+    width: 50%;
+    position: relative;
+    background-color: #fff;
+    border-right: 1px solid #f1f4f9;
+}
+
+.item {
+    display: flex;
+    height: 50px;
+    flex: 1 1 auto;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    background-color: #333;
+    color: #fff;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 600;
+    border: none;
+}
+
+
+.editor {
+    height: calc(100vh - 80px);
+}
